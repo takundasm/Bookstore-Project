@@ -1,0 +1,13 @@
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\bin\Debug\MNDTAK007_ProjectINF1003.exe.config
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\bin\Debug\MNDTAK007_ProjectINF1003.exe
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\bin\Debug\MNDTAK007_ProjectINF1003.pdb
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.csprojAssemblyReference.cache
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.startingForm.resources
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.Properties.Resources.resources
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.csproj.GenerateResource.cache
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.csproj.CoreCompileInputs.cache
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.exe
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.pdb
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.AboutForm.resources
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.orderForm.resources
+C:\Users\E5570\Desktop\Course Documents\INF1003F\Project\MNDTAK007_ProjectINF1003\obj\Debug\MNDTAK007_ProjectINF1003.staffForm.resources
